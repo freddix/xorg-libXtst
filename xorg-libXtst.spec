@@ -1,11 +1,11 @@
 Summary:	X tst library
 Name:		xorg-libXtst
-Version:	1.2.1
-Release:	3
+Version:	1.2.2
+Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXtst-%{version}.tar.bz2
-# Source0-md5:	e8abc5c00c666f551cf26aa53819d592
+# Source0-md5:	25c6b366ac3dc7a12c5d79816ce96a59
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
